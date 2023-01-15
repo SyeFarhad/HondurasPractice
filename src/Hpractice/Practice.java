@@ -7,6 +7,8 @@ public class Practice {
 		System.out.println("***My Country is Honduras***************");
 		System.out.println("**My City is San Pedro Sula*****************");
 		
+		System.out.println("$$$$$$$$$$$$$$$$$$$$$$");
+		
 		
 		int i = 20;
 		int total = 0;
