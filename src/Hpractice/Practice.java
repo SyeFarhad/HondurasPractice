@@ -13,7 +13,7 @@ public class Practice {
 		int counter = 0;
 		int avg = 0;
 		
-		
+		// I'm not sure why dosen't work.
 	}
 	
 }
